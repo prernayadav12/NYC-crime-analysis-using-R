@@ -26,30 +26,3 @@ Association rules - support, confidence, lift, Apriori algorithm<br>
 Hotspots detection - DBSCAN clustering<br>
 Nearest neighbor index - z test statistics<br><br>
 
-## Preview
-**Distribution of crimes in different boroughs**
-<p align="center">
-  <img src="https://github.com/mcoric96/Crime-analysis/blob/master/Crime_analysis_project_github_files/figure-markdown_github/unnamed-chunk-10-1.png?raw=true">
-</p>
-
-<br>
-
-**Crime events**
-<p align="center">
-  <img src="https://github.com/mcoric96/Crime-analysis/blob/master/Crime_analysis_project_files/crime-events.PNG?raw=true">
-</p>
-
-<br>
-
-**Association rules**
-<p align="center">
-  <img src="https://github.com/mcoric96/Crime-analysis/blob/master/Crime_analysis_project_files/association_rules.PNG?raw=true">
-</p>
-
-<br>
-
-**Vehicle crimes - mapping crimes**
-<p align="center">
-  <img src="https://github.com/mcoric96/Crime-analysis/blob/master/Crime_analysis_project_files/vehicle-crimes.PNG?raw=true">
-</p>
-"# NYC-crime-analysis-using-R" 
